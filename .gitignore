@@ -1,0 +1,23 @@
+# Dependency directories
+/node_modules/
+ios/Pods/
+android/.gradle/
+android/app/build/
+
+# IDE and Editor files
+/.idea/
+/.vscode/
+*.iml
+*.DS_Store
+
+# Package manager files
+yarn.lock
+package-lock.json
+
+# Build output and temporary files
+*.log
+*.tmp
+npm-debug.log*
+
+# Environment-specific files
+.env
